@@ -131,7 +131,7 @@ For a detailed introduction, full list of features and architecture overview ple
    clone [your own fork](https://github.com/juice-shop/juice-shop/fork)
    of the repository)
 3. Run `cd vagrant && vagrant up`
-4. Browse to [192.168.56.110](http://192.168.56.110)
+4. Browse to [192.168.56.110](http://192.168.56.110)(test)
 
 ### Amazon EC2 Instance
 
